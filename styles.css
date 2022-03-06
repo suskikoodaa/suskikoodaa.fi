@@ -1,0 +1,12 @@
+p.centered {
+    text-align: center;
+}
+div#special {
+    background-color: hotpink;
+}
+div.cv {
+    background-color: antiquewhite;
+}
+div.cv li {
+    list-style: none;
+}
